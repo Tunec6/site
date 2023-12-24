@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+
+.wraper {
+  min-height: 100%;
+}
+
+.header {
+  width: 600px;
+  height: 80px;
+}
+
+.logoHead {
+  width: 50px;
+  height: 42;
+}
+
+.name {
+  width: 552px;
+  height: 48px;
+  font-weight: 400px;
+}
